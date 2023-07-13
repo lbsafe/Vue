@@ -1,6 +1,6 @@
 # Vue.js
 
-<p align="center"><img src="https://github.com/lbsafe/Vue/assets/65703793/7496a4d2-a006-4178-a72e-9b132a7fdb40" alt="js" width="200px"></p>
+<p align="center"><img src="https://github.com/lbsafe/Vue/assets/65703793/7496a4d2-a006-4178-a72e-9b132a7fdb40" alt="vue" width="200px"></p>
 
 ## Vue.js 에 대하여
 >Vue.js는 사용자 인터페이스를 만들기 위한 동적 JavaScript 프레임워크다.   
